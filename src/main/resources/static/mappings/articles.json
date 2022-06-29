@@ -1,0 +1,16 @@
+{
+  "properties" : {
+    "id": {
+      "type": "keyword"
+    },
+    "name": {
+      "type": "text"
+    },
+    "text": {
+      "type": "text"
+    },
+    "created": {
+      "type": "date"
+    }
+  }
+}
